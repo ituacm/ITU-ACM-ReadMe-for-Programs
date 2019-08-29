@@ -19,8 +19,8 @@ Kısa bilgi
 | 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
 
 
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+# <a name="instructors"></a>Program Managers
+* "J. Jesus. P. Aguinaga" <admin@listforks.com> 
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
 
 <p align="center">
