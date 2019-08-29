@@ -24,5 +24,5 @@ Kısa bilgi
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
 
 <p align="center">
-  <img width="600" height="200" src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
+  <img  src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
 </p>
