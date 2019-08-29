@@ -19,7 +19,7 @@ Kısa bilgi
 | 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
 
 
-# <a name="instructors"></a>Program Managers
+# <a name="Instructors"></a>Instructors
 * "ITU ACM" <ituacm@gmail.com> 
 * "ITU ACM 2" <info@itu.acm.org>
 
@@ -28,3 +28,5 @@ Kısa bilgi
     <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
   </a>
 </p>
+
+# Prerequisities
