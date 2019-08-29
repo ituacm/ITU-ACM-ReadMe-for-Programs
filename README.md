@@ -1,6 +1,6 @@
 [![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
 
-# REACT NATIVE
+# Exchange Rate App with React Native
 
 Kısa bilgi
 Kısa bilgi
@@ -18,9 +18,9 @@ Kısa bilgi
 | 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
 | 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
 
-# Table of Contents
-
 * [Team Members](#team-members)
 
 # <a name="team-members"></a>Team Members
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+
