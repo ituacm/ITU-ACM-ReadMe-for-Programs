@@ -18,6 +18,9 @@ Kısa bilgi
 | 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
 | 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
 
+# Table of Contents
 
-### <i class="fas fa-puzzle-piece fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple Puzzle Icon
-{: #puzzle-purple}
+* [Team Members](#team-members)
+
+# <a name="team-members"></a>Team Members
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
