@@ -20,8 +20,8 @@ Kısa bilgi
 
 
 # <a name="instructors"></a>Program Managers
-* "J. Jesus. P. Aguinaga" <admin@listforks.com> 
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+* "ITU ACM" <ituacm@gmail.com> 
+* "ITU ACM 2" <info@itu.acm.org>
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
