@@ -9,7 +9,7 @@ Kısa bilgi
 ------------
 
 
-|  :fa-calendar: Date |  Topic  | Description  |
+|  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
 | 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
 | 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
