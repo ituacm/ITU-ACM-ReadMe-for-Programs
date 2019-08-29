@@ -18,7 +18,6 @@ Kısa bilgi
 | 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
 | 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
 
-* [Team Members](#team-members)
 
 # <a name="team-members"></a>Team Members
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
