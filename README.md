@@ -2,26 +2,26 @@
 
 ### Instructors
 
-**Alperen Kantarcı**
+**Your Name and Surname**
 
 *Computer Engineering #4 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/alperenkantarci/)
+[*LinkedIn*](https://www.linkedin.com/in/)
 
-**Burak Bekci**
+**Your Name and Surname**
 
 *Computer Engineering #3 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/burak-bekci-129b1514b/)
+[*LinkedIn*](https://www.linkedin.com/in/)
 
 
 ### Prerequisities
 1. Basic knowledge about any programming language.
-2. Android Studio (Version 3.0 or newer Note:Latest release is 3.2.1)
+2. so on...
 
 ### Goal
 
-The aim of this study group is to learn the fundamentals of the Android Application development using Kotlin programming language, using Git for your projects, mobile application design and so on. At the end of the course you will have solid base for Android application development and you will be able to create applications that you desired and you will be able to show off to your friends with your own applications :smiley:
+goals about program...
 
 ### Syllabus
 
@@ -40,17 +40,15 @@ The aim of this study group is to learn the fundamentals of the Android Applicat
 (Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
 
 # Important Links
-[TryKotlin](https://try.kotlinlang.org) - If you want to try kotlin without any installation or if you want to practice  
-[Android Studio](https://developer.android.com/studio/) Offical download adress of the Android Studio  
-[Android Developers](https://developer.android.com/docs/) First website that you will need while developing applications  
+
+You can add links here about your program...
 
 # Suggested Readings
-[About advantages and disadavantages about Kotlin](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3)
 
-[Must read article for Android Developers](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
+You can add readings here about your program...
 
 # Project
-Addition for the apps covered in the course, we will create another application inwhich all fundamentals of the Android Environment will be covered. For more information visit the [Project file](/Project)
+Short project details. For more information visit the [Project file](/Project)
 
 
 <p align="center">
